@@ -58,7 +58,7 @@ df.head(3)
 ```
 df.tail(3)
 ```
-<img width="1077" height="222" alt="image" src="https://github.com/user-attachments/assets/0c78189e-212d-43ba-9032-6b5155d587c1" />
+<img width="802" height="137" alt="image" src="https://github.com/user-attachments/assets/a9854629-621c-455c-9a59-b039ea9e28e0" />
 
 ```
 df.dropna(how='any').shape
